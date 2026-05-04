@@ -3,9 +3,14 @@
     <h3 align="center "><a href="https://learnwithsumit.com/courses/think-in-a-redux-way/reactive-ui-and-reusability" target="_blank" >REDUX Practice</a></h3>
 </p>
 
+<br />
+<!-- TABLE OF CONTENTS -->
 
-<br>
+## ![tableOfContent][tableofcontent-shield] Table of Contents
 
+1. state management in different components
+
+<br />
 <!-- CONTACT  -->
 
 ## ![contactIcon][contacticon-shield] Contact me
@@ -26,3 +31,4 @@
 [mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-mirazuddin0623%40gmail.com-lightgray
 [mail-url]: mailto:mirazuddin0623@gmail.com
 [contacticon-shield]: https://img.icons8.com/external-flaticons-lineal-color-flat-icons/28/undefined/external-support-communication-media-flaticons-lineal-color-flat-icons.png
+[tableofcontent-shield]: https://img.icons8.com/external-flatart-icons-flat-flatarticons/28/undefined/external-direction-business-and-teamwork-flatart-icons-flat-flatarticons.png
