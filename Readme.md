@@ -8,7 +8,8 @@
 
 ## ![tableOfContent][tableofcontent-shield] Table of Contents
 
-1. Reactive UI & Reusability
+1. how to install tailwindcss with vite & react
+2. One Way Data Flow (view->action->state)
 
 <br />
 <!-- CONTACT  -->
